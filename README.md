@@ -10,3 +10,9 @@
 
 ##### En resumen, este código crea una interfaz de calculadora básica en C# utilizando Windows Forms y proporciona la funcionalidad necesaria para realizar operaciones matemáticas.
 
+<p align="center">
+  <img src="https://i.postimg.cc/HWM7gMkL/Captura.png" alt="Calculadora"/>
+</p>
+
+#### Perfil LinkedIn:
+`<link>` : www.linkedin.com/in/franco-galan-def
